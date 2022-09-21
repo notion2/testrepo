@@ -1,2 +1,2 @@
 ### Add a file to child branch
-print("inside child brannch")
+print("inside child branch")
